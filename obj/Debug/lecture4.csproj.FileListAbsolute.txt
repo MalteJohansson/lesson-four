@@ -1,0 +1,7 @@
+c:\users\malte\source\repos\lecture4\lecture4\bin\Debug\lecture4.exe.config
+c:\users\malte\source\repos\lecture4\lecture4\bin\Debug\lecture4.exe
+c:\users\malte\source\repos\lecture4\lecture4\bin\Debug\lecture4.pdb
+c:\users\malte\source\repos\lecture4\lecture4\obj\Debug\lecture4.csprojResolveAssemblyReference.cache
+c:\users\malte\source\repos\lecture4\lecture4\obj\Debug\lecture4.csproj.CoreCompileInputs.cache
+c:\users\malte\source\repos\lecture4\lecture4\obj\Debug\lecture4.exe
+c:\users\malte\source\repos\lecture4\lecture4\obj\Debug\lecture4.pdb
